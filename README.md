@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Albinjoe71
-- 👀 I’m interested in playing around with codes
-- 🌱 I’m currently learning Msc Bioinformatics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me albinjoseph71@gmail.com
+# 👋 Hello, I'm Albin Joseph (@Albinjoe71)  
 
-<!---
-Albinjoe71/Albinjoe71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👨‍💻 About Me  
+I'm passionate about blending coding with biology to solve complex problems in bioinformatics. I have completed my **Master's in Bioinformatics** from Manipal University and am eager to contribute to meaningful projects in this field.  
+
+- 🔬 **Interests:** Computational biology, genomics, data analysis, and machine learning applications in bioinformatics.  
+- 🌱 **Currently Learning:** Advanced bioinformatics tools, Python for data science, and machine learning techniques.  
+- 💡 **Looking to Collaborate On:** Projects involving genomics, protein modeling, or data-driven research in bioinformatics.  
+
+### 📫 Let's Connect  
+- 📧 Email: [albinjoseph71@gmail.com](mailto:albinjoseph71@gmail.com)  
+- 💼 LinkedIn: [Your LinkedIn Profile](#) *(https://www.linkedin.com/in/albin-joseph-470b12159/)*    
+
+---
+
+### 🔧 Tools & Technologies  
+- **Programming Languages:** Python, R, Shell scripting  
+- **Bioinformatics Tools:** BLAST, Clustal Omega, Biopython, PyMOL  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Version Control:** Git, GitHub  
+
+---
