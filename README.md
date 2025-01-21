@@ -9,7 +9,7 @@ I'm passionate about blending coding with biology to solve complex problems in b
 
 ### 📫 Let's Connect  
 - 📧 Email: [albinjoseph71@gmail.com](mailto:albinjoseph71@gmail.com)  
-- 💼 LinkedIn: [Your LinkedIn Profile](#) *(https://www.linkedin.com/in/albin-joseph-470b12159/)*    
+- 💼 LinkedIn: *(https://www.linkedin.com/in/albin-joseph-470b12159/)*    
 
 ---
 
